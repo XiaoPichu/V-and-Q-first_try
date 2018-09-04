@@ -1,0 +1,4744 @@
+kitchen,433
+putting condiment,3
+putting down something,10
+trees,2
+placing photo frame,1
+battledore,3
+looking for things,3
+stretching out his hand,1
+cineframe,2
+light light,1
+on window sill,9
+finishing hair,3
+wiping hearth,2
+breaking door,3
+taking hat,1
+opening bag,4
+taking selfie,10
+toy snowcar,1
+going forward,1
+mustache,81
+sneeze,2
+placing pot,1
+getting wet in rain,4
+preparing truck,1
+sailing,4
+pea green,7
+signing,2
+deep black,1
+ground,1
+moving mouse,1
+lying on front,3
+curtains,8
+navy blue,35
+presiding over,1
+taking books,6
+next to stroller,3
+making handicrafts,1
+kicking ball,1
+picking something,1
+filtering water,1
+table lamp,11
+throwing scarf,1
+host machine,2
+pouring milk,2
+blaine,1
+off-white,52
+light,27
+taking screwdriver,1
+glass,15
+hanger,22
+clapping hands,7
+setting backpack,1
+audience,14
+cooking things,5
+seeing information,5
+morning,4
+display items,3
+touching camel,1
+hugging pillow,3
+true red,12
+garland,9
+flushing plate,1
+policeman,3
+spicing,1
+closing door,64
+vacant lot,1
+putting carton,1
+yellow,297
+verdancy,1
+getting laundry detergent,1
+bottom of car,1
+slice,1
+automobile race,3
+long hair,234
+on field,3
+cartoons,3
+actor,3
+bamboo basket,1
+throwing phone,1
+black gray,5
+aurantius,1
+taking jar,1
+cherry,3
+lifting his head,1
+tachometer,1
+roadblock,3
+from door,3
+using computer,2
+opening baby carriage,1
+raising bag,1
+office,2
+short hair,288
+guard bar,1
+highway,4
+closing paper box,1
+turning switch,1
+chocolates,1
+electromobile,2
+somber red,1
+above water,1
+raising broom,1
+willow,1
+silvery,1
+medal,7
+racing,6
+playing volleyball match,1
+pressing pillow,1
+reading news,1
+clamp,3
+milky white,36
+drum kit,1
+pink orange,1
+out of room,1
+nattierblue,1
+cowboy hat,1
+drawing curtains apart,1
+putting on socks,3
+chrysanthemum,1
+colour,1
+in hands,29
+getting blanket,2
+opening cup,1
+bookshelves,1
+taking out goods,1
+placing bottle,2
+retreating,1
+fishing gear,1
+narrating,5
+checking parts,3
+flame,1
+on ocean,3
+beard,3
+install part,1
+wiping bottles,1
+wires,1
+stand,3
+soap box,3
+opening door,97
+eating popcorn,1
+wiping glasses,6
+shield,3
+looking for something,26
+music room,1
+having dinner,2
+on table,492
+touching grass,3
+in room,124
+aircraft,3
+bookmark,1
+bringing carton,1
+displaying pen,1
+putting down brooms,1
+tender green,3
+having beard,6
+in repair shop,3
+doing exercise,5
+photo,35
+sneakers,1
+brilliant yellow,2
+columns,1
+flour,6
+doing chores,7
+midwinter time and place,1
+under waterfall,1
+player,5
+taking scarf,3
+shoulder covering,1
+yellow white,1
+cashmere hat,1
+on door handle,3
+bow and arrow,4
+mickey mouse,1
+combing,1
+finishing clothes,2
+lifting foot,1
+barbershop,3
+stroking beard,1
+bath chair,1
+tying hair up,1
+tiding something,1
+introducing property,1
+decorating painting,1
+taking up box,1
+placing something,3
+tie,23
+sorting clothes,3
+laundry rack,1
+pink red,5
+home,6
+blue and white,4
+orane,1
+big green,1
+grubbing,3
+fingers,3
+picking up things from auxiliary seat,1
+gray-black,7
+soliloquize,3
+lamp,48
+seasoning bottle,1
+hearth,23
+packing items,1
+medium yellow,12
+guitar,46
+star photos,1
+extemporizing,1
+sauce color,1
+lifting pot,1
+dark-blue,37
+easel,1
+on refrigerator door,3
+removing lamp cover,1
+silver bray,1
+lifting water cup,1
+tennis court,3
+falling asleep,3
+second line,3
+tennis,3
+bucket,28
+spinning bicycle,1
+beside door,6
+arresting somebody,1
+beside dining table,3
+water dispenser,1
+sorting clothesclothes,1
+headphones,3
+little bird,1
+practicing,1
+knelling,3
+picking shoes,2
+garnet-red,1
+lifting skirt,1
+broadcasting show,1
+ball game fans,1
+holding his legs,1
+outskirts,1
+next to man,3
+looking at mirror,17
+ocean blue,13
+mountain,3
+rubbing chair,2
+grassland,2
+portrayal,1
+on door,21
+taking vegetable,1
+pure-white,4
+screwing bottle cap,6
+using camera,1
+console,1
+watching things,2
+reading photo album,1
+balcony,3
+make preparation,1
+closing cupboard door,3
+saxophone,1
+picking up sample,1
+looking at cellphone,5
+in studio,54
+alpaca,6
+keyboard,17
+placing clothe,1
+getting shoes,1
+green planting,2
+sunbathing,2
+soccer,3
+azure,31
+repair shop,3
+playing phones,1
+introducting car seat,1
+mirror,119
+handbag,9
+blackboard,6
+dumping things,1
+boxing competing,3
+dark-green,3
+vase,16
+peachpuff,1
+storage box,4
+blue-black,10
+twisting vacuum cleaner,1
+scenic spot,1
+twisting things,1
+in ship,1
+schoolbag,3
+light red,28
+on plane,6
+eyeglasses,33
+certificate,1
+snowy white,1
+putting down pancake turner,1
+in basket,3
+mechanical watch,1
+cheetah,1
+fleshed-color,2
+war,3
+cycling,3
+walking out,3
+holding stuff,1
+tree,55
+blue-red,1
+on dresser,3
+white-grey,1
+hot,6
+positive,3
+basketball stands,4
+dresssing up,1
+folding paper,10
+white yellow,1
+pulling chair,1
+observing photo,1
+tap,4
+cow,6
+detergent,6
+wiping lipstick,3
+eating biscuit,3
+sauce purple,1
+picking up cleaner,1
+putting on coat,8
+grill,1
+on closet,6
+water bottle,5
+standing on wooden strip,1
+wardrobe,15
+displaying vacuum cleaner,1
+shaking hands,6
+blue black,4
+black red,2
+packing up trash,1
+yellow green,3
+into room,2
+shaking basin,1
+shooting arrow,3
+round,16
+shower gel,1
+magazines,3
+wiping sweat,1
+bowl,54
+placing back cushion,1
+electronic organ,1
+grenade,3
+aqua blue,2
+crocodile,3
+doctor,3
+on piano,3
+workshop,1
+3d,5
+drinking things,3
+joyful,1
+looking at pictures,3
+in car,84
+going ahead,3
+driving,50
+putting cup,13
+black,1825
+broth boils,1
+water red,1
+entering door,3
+vomiting,1
+looking at shoe size,1
+picking flowers,1
+opening things,3
+dismantling boxes,1
+smoke,1
+fresco,9
+holding chin,1
+viewing vacuum cleaner,1
+grey and white,11
+falling down,5
+by pen,1
+taking paper bags,1
+opening package,1
+test paper,1
+hand standing,3
+sweeping room,1
+taking shovel,1
+finding stuff,1
+hook,3
+rest,1
+dresser,3
+fire hydrant cabinet,1
+taking off tie,1
+alphabet,1
+cap,33
+eating,292
+rubbing eyes,3
+picking up cup,3
+eating snack,3
+shaking juicer,1
+pool,35
+pulling off quilt,1
+putting on apron,1
+crawling,3
+inside room,1
+doing something,3
+purple pink,1
+pulling root of shoe,1
+opening medicine bottles,1
+rectangular,4
+giving speech,6
+brushing dust,1
+suburb,6
+green and blue,2
+grabbing food,3
+pouring drink,1
+torch,1
+taking photos with phone,1
+on leg,3
+washing room,1
+was man sitting or lying at beginning in video,1
+pink,156
+counting things,1
+cleaning sofa,1
+listening to class,1
+in show,1
+at dusk,1
+covering with quilt,1
+kicking door,1
+eating foods,1
+opening food,1
+trophy,1
+ride horse,1
+airship,1
+plastic cup,1
+fruits,9
+hair drier,1
+ak47,3
+celebration ceremony,3
+headgear,1
+at corner,8
+in community,1
+stage,24
+at clinic,3
+landscape,3
+posing,18
+above lake,3
+station bus,1
+tunnel,1
+cactus,1
+purplish-blue,1
+architecture,2
+curved,3
+light stick,1
+acting cute,1
+black dog,1
+pouring juice,1
+looking in mirror,50
+alcohol,1
+on screen,9
+sheet,13
+sofa,113
+protective net,3
+english,82
+opening up closet,1
+tidying up things,4
+looking at computer,36
+unwraping food,1
+open space,2
+pair of earphones,2
+playing book,1
+fifty three,2
+pen,30
+hollow earrings,1
+answering question,3
+role play,1
+black-blue,7
+folding up clothes,3
+on book shelf,3
+boiling water,3
+holding blanket,2
+cloud,2
+opening flashlight,1
+ice tray,1
+formula,1
+on cupboard,16
+wearing blanket,1
+applying face film,1
+taking plates away,1
+drawing comics,1
+bread,27
+in courtyard,1
+introducing ingredients,3
+gesturing,1
+magic cube,3
+sand pit,1
+closing book,1
+explain dishes,1
+game characters,2
+spring cleaning,1
+calling,23
+forest,6
+control panel,1
+looking into mirror,51
+coving lip,1
+washing detergent,1
+making phone calls,2
+in menu bar,3
+washing things,2
+rising,3
+on highway,5
+washing cup,7
+bottles,2
+upward,3
+cooking bench,1
+picking up pillow,8
+newspaper,16
+going outdoors,1
+in concert hall,1
+making french fries,1
+hand laced behind head,1
+basketball stadium,1
+putting in pocket,1
+cleaning up thoroughly,1
+landscape art,3
+carton,43
+at stairway,3
+in trap,3
+orange,97
+picking up photo frame,1
+stooping,1
+introducing stroller,3
+took stuffs,1
+leather handbag,1
+playing with plasticine,1
+throwing quilt,3
+bell,4
+on counter,6
+cards,1
+looking at files,1
+electric wire,9
+left,30
+silver,26
+cutting board,2
+putting scarf,1
+tiptoeing,1
+buying birds,1
+fireworks,1
+seabed,3
+sitting down and rest,1
+making show,1
+handling sacks,1
+paper box,22
+parts,3
+in pot,7
+putting mat,1
+ring,37
+undoing shoelaces,4
+smelling cup,1
+taking quilt,3
+wrapped in blanket,1
+pressing remote controller,1
+lifting vacuum cleaner,1
+cat,23
+moving chair,6
+cleaning close stool,1
+purple black,1
+viewing screen,1
+studio scene,1
+toy pine,1
+wiping hands,5
+room,105
+lights,12
+inside building,3
+herbal green,1
+telestudio,4
+blank,3
+purplish black,1
+racket,3
+in middle of scene,1
+skyblue,16
+using towel,1
+looking up,2
+jug,1
+listening to something,1
+watching tv,93
+walking dog,3
+crystal ball,3
+big tree,3
+grass yellow,4
+mesuring,3
+deskside,3
+explaining game,1
+putting down broom,2
+under sunlight,2
+skidding,3
+handrails,1
+light purple,22
+putting things,25
+show venue,1
+repair car,1
+holding camera,1
+police cap,3
+repairing cabinet door,1
+glasses,329
+purple and black,1
+firing,2
+atrovirens,20
+laundry,1
+flip food,1
+near table,6
+trucks,3
+postcard,2
+pulling out power,1
+in front of table tennis table,3
+inserting plug,1
+electricity box,1
+throwing photo,1
+fashion show,10
+carpet,27
+cour,1
+boxing speed,1
+taking cups,2
+iron pot,2
+taking walk,1
+putting on face cloth,1
+tiles,1
+watching cell phone,2
+standing up,9
+opening your hand,1
+putting plate,1
+six,22
+next to parrot,3
+bluish violet,1
+colored drawing,3
+doghouse,1
+talking,262
+ambry,3
+silver-white,1
+eating grapes,1
+on sports ground,1
+in front of mirror,6
+wiping tv,3
+biting animal,1
+in cabin,3
+pouring out,1
+flipping computer,1
+black-brown,3
+stone stairs,3
+sitting on ground,1
+opening cupboard door,3
+looking for someone,1
+picking things,1
+scratching,1
+stretching out hand,1
+touching eyes,1
+cleaning out closet,1
+looking at dentist,3
+is man standing or sitting in video,1
+riding cable car,3
+driving spacecraft,3
+looking down,1
+gas tank,3
+conflict in game,3
+rubber band,2
+taking textbook,1
+lakes,1
+dark-red,18
+viewing paper,1
+reddish blue,1
+paper bag,2
+sketching,1
+looking engine,1
+holding cup,5
+globe,2
+condiment,4
+skiing board,2
+document,5
+purse,3
+white paper,1
+cell phone,79
+hanging towel,4
+sky-bule,1
+stepping,1
+taking out food,3
+getting foods,3
+table tennis table,1
+throwing blankets,1
+putting weight on closet,1
+pulling something,1
+peach red,8
+standing akimbo,1
+flipping book,1
+landed,3
+ferris wheel,3
+taking off watch,1
+left eye,3
+golden-yellow,7
+wiping cup,1
+led screen,1
+in rear,3
+candle,5
+turning,2
+catching things,1
+wiping shoes,4
+visit website,3
+lecturing,1
+placing vacuum cleaner,1
+deep yellow,1
+rice cooker,2
+scolding people,3
+coffee machine,1
+cleaning books,1
+basketball basketball,1
+in running,2
+protective hood,1
+in front of rear tire,1
+placing bags,1
+tooth-brush,2
+closing drawer,3
+no hair,3
+watching dog,1
+parking lot,4
+lobby,6
+picking up book,5
+experimental pipe,3
+pulling towel,1
+in bed,1
+brush wall,1
+champagne,1
+taking boxes,2
+relaxing,9
+wiping face,6
+kettle,13
+dark,1
+humidifier,1
+hair-drying cap,1
+holding stairs,1
+box,56
+dark clouds,1
+where is packaging milk,1
+reading magazine,4
+brownness,1
+street light,2
+peachpink,3
+purple grey,1
+fixing something,1
+adjusting channel,1
+black white and grey,3
+on roof,4
+cooktop,2
+wine red,2
+sage green,1
+tv station,1
+moping floor,1
+boat,8
+lifting shoes,1
+touching face,4
+moon,4
+drain rack,1
+taking plastic bag,1
+turning on light,27
+pale brown,1
+observing vacuum cleaner,1
+beige grey,1
+stretching out one's hand,1
+swallowing,1
+documents,1
+looking at outside of window,1
+net pocket,1
+folding blankets,1
+dinner plate,1
+one five,1
+christmas tree,3
+opening hand,1
+store,4
+dark blue,193
+rainy day,3
+golden yellow,8
+moving table,2
+woolen hat,3
+twisting himself,1
+synchronized swimming,1
+placing carton,1
+tidying up room,3
+fire engine,3
+clearing up kitchen,2
+turquoise,14
+reding,3
+dyeing,4
+in engine room,3
+hall,7
+taking water glass,1
+swiping door,1
+twisting,1
+catwalking,3
+staring eyes,1
+being in daze,3
+saffron yellow,4
+racing track,3
+true-black,1
+on corner table,3
+block shirt,3
+goal,1
+news release,1
+pink-red,3
+hugging,8
+opening book page,1
+milky gray,1
+under stairs,5
+waving hands,1
+doing experiment,6
+putting cups,1
+ice chest,1
+cleaning toy,1
+advertising sign,3
+cooker hood,1
+grey black,12
+looking at book,1
+brown-grey,1
+cupboard,10
+tidying table,2
+holding up plate,1
+at night,4
+taking out bag,1
+warehouse,12
+hanging towels,1
+storing food,1
+match,6
+on desert,3
+taking newspaper,1
+tidying items,1
+hanging mirror,3
+in machine,3
+being interviewed,3
+socks,4
+looking inside car,1
+auditorium,17
+lying,246
+crabstick,1
+football player,3
+tray,4
+trash,2
+black blue,17
+having meals,1
+opening water bottle,1
+cage,5
+peach-pink,1
+computer mainboard,1
+washing bowls,1
+khaki color,3
+checking chair,1
+on floor,69
+ocean,3
+crossing legs,1
+arranging wardrobe,1
+finishing wardrobe,1
+j,3
+pulling bolt,2
+cleaning up,28
+dart board,2
+hangers,7
+runnning,1
+pulling cord,1
+judge,1
+eating biscuits,3
+clearing up room,1
+pink purple,3
+laying down cloth,1
+lightyellow,1
+helping herself in bathroom,3
+weeding,3
+on rooftop,1
+displaying cup,3
+closing washing machine's door,1
+podium,3
+mixing boxes,2
+microwave oven,16
+rosy,2
+character suit,1
+outside of room,4
+learning to dance,1
+tissue box,1
+brown and black,1
+program scene,4
+repairing ceiling lamp,3
+shaking head,3
+on carpet,9
+playing baseball,6
+clearing up stuffs,4
+royally blue,2
+placing computer,3
+cooking soup,1
+ball,16
+bringing photo,1
+pouring into food,1
+dynamic,3
+keybooard,4
+brige collapses,3
+sheeting bad,1
+turning on faucet,2
+year twenty o eight,1
+taking boat,1
+doing some cleaning,7
+watching outside,1
+chairs,3
+using vacuum cleaner,6
+taking slice,1
+breen,1
+putting down vacuum cleaner,2
+repairing things,3
+wiping hair,3
+opening bowel,1
+rice yellow,1
+xp,3
+rehearsaling,1
+advertising,3
+voicetube,1
+hair,6
+dark-grey,13
+fixing desk,1
+game,13
+on hangers,3
+biscuit,1
+drinking tea,2
+case,19
+putting pants,1
+drawing paper,2
+repairing electrical appliances,1
+looking after bird,1
+looking at photo,7
+coat hanger,2
+tidying up furnitures,1
+creamy-white,10
+turning page to page,1
+washing towel,1
+tooth cup,2
+blue gray,4
+landing website,1
+toilet shampoo,1
+thumb,3
+igniting,2
+royal blue,32
+putting materials,2
+on back of door,3
+hitting things,1
+water plastic,1
+lifting curtain,3
+hands on waist,2
+in cinema,6
+pat,3
+riding horse,6
+wiping chair,2
+pants,7
+blavk,1
+fixing furnitures,2
+taking out cup,1
+stone table,1
+barbell,3
+yacht,3
+instrument,1
+sorting clothesbook,1
+ok,3
+wipping refrigerator,1
+matching,2
+photos of beautiful women,1
+loading bullets,1
+massaging,6
+rose blossom,1
+olive,1
+eating meat,1
+firming,4
+restaurant,8
+tidying,91
+slivery white,1
+lamplight,4
+pointing to far side,1
+backpack,20
+switch,36
+lightg-purple,1
+refreshments,1
+barrels,1
+detecting instrument,3
+black and white strips,1
+stoop,1
+animal,14
+greenvegetable,1
+putting on trousers,1
+lamps,2
+measuring ruler,1
+hanging on shelf,3
+rose-bengal,6
+stair,1
+numbers,1
+searching refrigerator,1
+plush toy,1
+opening notebook,1
+mopping mirror,1
+competitor,1
+hit person,3
+unsnaping,1
+stirring,12
+cleaning desk,1
+take things,4
+furvous,72
+taking wooden board,2
+rushing,1
+drilling nails,1
+playing computer games,5
+rag,5
+grazing,1
+program,1
+in game,15
+taking machine,2
+little dog,1
+blue purple,5
+school,3
+teacup,1
+sky,6
+true black,2
+putting something,1
+putting down headphones,1
+knapsack,2
+light white,22
+pouring it into washing machine,1
+observing shoes,1
+human figure,1
+rock,1
+taking basket,2
+mask,3
+shaking hands without stopping,1
+cobalto,1
+autumn and winter,3
+on beach,9
+mushroom cloud,1
+touching jaw,1
+tightening screws,1
+baby carriage,2
+soup ladle,1
+jacinth,9
+blasket,1
+playing toys,3
+making interview,1
+putting back cabinet,1
+changing shoes,3
+dialog box,6
+architectural model,1
+plates,7
+reaching out,5
+fishing rod,1
+seeing sight,1
+incarnadine,2
+swimming,13
+mario,1
+fish tank,4
+washing liquid,1
+covering with cover,1
+sweeping stairs,1
+taking photo for car,3
+yelling,1
+sweeping ground,1
+nattier blue,2
+finishing blankets,2
+gray-white,1
+left side of pot,3
+opening car's door,1
+ink blue,1
+taking pants,2
+lavender,18
+putting down bottle,2
+racingroad,1
+dark cyan,2
+throwing clothes,22
+on mountain road,1
+white jersey team,3
+organizing items,4
+dark-purple,4
+embracing,1
+washing food,3
+skeleton,7
+displaying camera,1
+laughing,34
+entertainment,1
+steel helmet,1
+game interface,1
+speaking,264
+interview site,2
+on balcony,4
+dessert,5
+picking up box,1
+fire,3
+in passage,2
+kneading dough,1
+putting cup on table,1
+pure white,13
+introducing things,1
+on plate,3
+recording program,1
+turning light off,3
+vegetable leaves,1
+stockpot,1
+juice can,1
+melon,1
+getting broom,1
+travelling,1
+parrot,2
+tibet green,1
+on ofo,3
+wooden boards,1
+putting away shoes,2
+rice,2
+taking pot salad,1
+using cleaning fluid,1
+gray,175
+writing board,1
+on washbasin,9
+table tennis bat,4
+throwing book,6
+light yellow,44
+parking,1
+toothbrush,6
+taking off his shoes,3
+creamywhite,1
+smoking,4
+midwinter,1
+raising head,1
+grass-green,3
+jumping out of sea,1
+stair case,3
+making speech,11
+opening up box,1
+picture,8
+fixing up things,1
+sixteen,2
+dining room,1
+taking food material,1
+dedusting,1
+apricot red,4
+driving car,9
+bouncing basketball,1
+dining-table,3
+utility room,11
+playing water,4
+setting hair,1
+guitarist bass,1
+pulling drawer,2
+throwing box,2
+training,2
+black-grey,2
+blue green,4
+turning off tv,1
+putting bag in order,1
+game scene,15
+check,1
+on car seat,1
+making cuisines,3
+in classroom,1
+taking off clothing,1
+cleaning shelf,1
+wooden,3
+adding materials,3
+face cream,1
+questioning and answering,1
+in corner,15
+kid's car,3
+on toilet,3
+taking out items,6
+rostrum,1
+rabbit,6
+islet,3
+staircase,17
+blue-purple,2
+knocking window,1
+air pressure device,3
+network cable,1
+steering wheel,17
+in door,195
+blinking eyes,3
+headset,9
+at left of man,1
+before microphone,3
+moping up dishes,1
+tearing wig,3
+picking up carton,3
+looking for,3
+on podium,1
+wiping forehead,1
+going out,4
+sports center,6
+washing pool,2
+purple red,6
+screwing lid,1
+paddling water,1
+going to table,1
+turning off lights,11
+armrests,4
+shooting arrows,2
+benches,3
+arranging refrigerator,2
+sanding,4
+unlacing shoelace,1
+electric mosquito swatter,1
+purplish red,5
+boiling things,1
+closing car door,2
+lamp switch,1
+exercising,26
+guardrail,3
+taking spoon,2
+stove,4
+bathroom,79
+wearing shoes,27
+demonstrating,1
+in middle of interface,1
+tabletop,3
+wiping items,1
+rose bloom,3
+hand in hand,1
+arranging cookers,1
+notebook,20
+swinging notebook,1
+splashing water,2
+tennis racket,3
+watching cup,4
+cream-colored,3
+windows,2
+nail polishing,1
+taking bath,4
+recording voice,1
+pink bear,1
+cushion,12
+eating pizza,1
+smiling,16
+clothing,14
+stepping foot,1
+gamepad,1
+fleeing,1
+taking towels,3
+magic stick,3
+opening,22
+closing window,12
+plasticene,1
+right hand,66
+on bed,108
+gloves,12
+golden earring,3
+taking blanket,13
+space,3
+ring finger,6
+throwing items,1
+putting in closet,1
+listening to songs,3
+turing off light,3
+circuit board,3
+turned off light,1
+blackish green,1
+sun,2
+hosting program,1
+visiting room,3
+arranging food,2
+by table,2
+placing medicine bottle,1
+mosquito,1
+puffed food,1
+skirts,3
+grey,206
+riding bicycle,2
+hats,3
+container,2
+stretching out hands,1
+controlling items,1
+moving stool,1
+chestnut,1
+pressing neck,1
+playing volleyball,4
+eating bones,3
+on chopping board,6
+on river,3
+pineapple,3
+scolding person who wears horse mask,3
+cutting up vegetables,2
+gray white,32
+opening paper box,1
+laying sheets,3
+looking at others,1
+repairing goods,1
+in lake,3
+commentary table,3
+cracking out clothes,1
+opening drawer,3
+looking at bottle,1
+earring,7
+goalkeeper running towards it,1
+lemon,3
+scorpion,4
+ball park,6
+tail,3
+playing stage play,1
+shooting game,3
+debugging washing machine,1
+moving item,1
+mobile phone,26
+seasoner,1
+playing computer,97
+chewing capsule,1
+paper airplane,3
+throwing rag,1
+helmet,46
+corner,12
+moping up hearth,1
+year two zero zero eight,1
+slippers,2
+peak green,5
+in snow,1
+putting down machine,1
+blue grey,3
+tidying books,3
+crib,1
+shorts,6
+in universe,1
+laboratory,7
+waving oar,1
+trademark,1
+making photo,3
+mickey,1
+long jump,4
+in hallway,11
+watermelon red,4
+wiping mouth,3
+search bar,1
+pancake turner,1
+tasting,3
+handle,5
+mat,6
+dashboard,1
+putting items,3
+crying,4
+in fish tank,3
+jogging,1
+on rope,6
+throwing smoke bomb,3
+toilet,44
+dark brown,44
+on water,4
+taking iron barrel,1
+right hand pointing at sky,3
+grass green,42
+tv box,1
+wiping nose,12
+embracing each other,1
+fetching medicine,1
+drawing eyebrow,1
+cleaning up towels,1
+putting on hat,1
+on couch,3
+washhouse,1
+putting item on cupboard,1
+mess tin,2
+car crash,1
+flying car,3
+earphones,14
+bringing bottle,4
+water gun,3
+playing field,11
+entering room,1
+picking up bottle,1
+green-white,1
+house,78
+observing fan,1
+pour water,2
+five two eight,2
+people,37
+near staircase,3
+opening medicine bottle,1
+photo frames,3
+on lawn,24
+sky-blue,22
+taking pictures,16
+puppy,7
+in wardrobe,9
+fuchsia,7
+claybank,14
+big red,11
+food is hot,3
+yellowish brown,1
+recording room,3
+viewing items,1
+stable,3
+visiting,5
+taking carton,4
+walking down stairs,3
+pointing to toy description,1
+bread bag,1
+picking up water cup,2
+holding knife,1
+making hamburger,1
+in snowfield,1
+lab,3
+basket,17
+placing stuff,4
+dark gray,38
+rainy,2
+protective shield,3
+book shelter,3
+volleyball,1
+eating medicine,1
+clearing up,60
+carrying vacuum cleaner,1
+set-up,1
+light-brown,1
+face-time,3
+plastic basin,2
+taking apart of baby carriage,1
+looking out of window,1
+stairwell,13
+cleaning floor,4
+placing pillow,2
+first officer,3
+taking off hat,3
+bracers,6
+stitting down,1
+station,3
+game screen,3
+bolster,8
+scratching his head,1
+holding voice tube,1
+punching earthbags,1
+clock and watch,2
+taking away chair,1
+soft red,7
+dog house,1
+tidying sheet,1
+behind door,25
+mixing ingredients,1
+brownish black,6
+lunchbox,1
+handcart,2
+in bottom of sea,3
+preparing,1
+seawater,2
+sanitizer,1
+rooftop,3
+drinking juice,6
+text,3
+taking on his coat,5
+putting in food,1
+playing with bird,1
+repairing car,6
+tv set,15
+bullet,1
+touching towel,1
+on hearth,9
+topping pot,1
+stickers,2
+photographing,2
+t-shirt,1
+taking paper,2
+tool,11
+skiing,12
+clearing up desk,1
+wearing hat,1
+tv cabinet,1
+whisk,1
+looking at bag,2
+eyeophone,1
+in stairwell,9
+sliding door,2
+computer,258
+what is color of trousers of man in video,1
+broadcasting,6
+answering call,2
+toy car,1
+closing refrigerator,10
+on desk,78
+gripping steering wheel,1
+playing ball,6
+cleaning away rubbish,4
+rectangle,30
+picking up towels,1
+getting around,2
+looking at notebook,1
+making food,4
+observing carton,1
+suit,7
+wireless-voice tube,1
+taking towel to wipe cup,1
+folding paper into something,1
+taking cleaner,1
+paperplane,1
+shrimp meat,1
+in drawer,9
+popcorn,3
+toaster,2
+sofa chair,4
+sand,1
+stool,21
+pattern,1
+feeding dog,1
+at sea,1
+apple green,4
+putting down lid,1
+intercepting,1
+auto show,3
+motorcycle,6
+tv bench,2
+fish tape,1
+pedestrian,1
+next to drum set,4
+on draining rack,3
+fetching newspaper,1
+eating snacks,6
+cut garlic,2
+answering phone,3
+computer case,1
+honey,1
+hanging hat,1
+in mobile phone,3
+khaki,21
+on water plant,3
+on white table,1
+plants,1
+boating,5
+paying,3
+nacarat,1
+co-pilot's seat,3
+input web address,1
+in mouth,3
+arranging parcels,1
+straight,3
+triangle,7
+bedhead,3
+shooting video,1
+putting phone,2
+tying straps,1
+pot cover,2
+dust collecter,1
+climbing snow mountain,3
+three groups,3
+taking off pillow case,1
+pushing closet door,1
+wine glass,2
+taking out clothes,5
+taking bolster,2
+deep blue,2
+on ice,6
+dark coffee,2
+closing door of washing machine,1
+removing glass bottle,1
+male,142
+pale blue,8
+lifting cup,7
+black grey,9
+reach out hand,1
+in toy microwave,1
+pure blue,1
+rotating disc,1
+taking mirror,2
+toy,15
+letters,1
+in city,1
+taking shoes,26
+stone,9
+towel bar,1
+cake,3
+rosiness,2
+silk scarf,3
+chewing,3
+dressing up,11
+slivery,8
+broccoli,1
+wiping dust,1
+turing head,1
+ride motorcycle,5
+cloth box,1
+pitching,3
+doing dishes,1
+stirring food,6
+pouring water to another cup,3
+putting down phone,2
+ancient blue,1
+shirt,15
+going out door,1
+playing poker,3
+eating steamed bun,1
+taking bosom,1
+door frame,1
+beach,14
+beating drum,4
+swatter hit,2
+current lead,1
+eating bread,34
+alerting around,1
+human organ,3
+hitting cow,3
+photographic studio,2
+having picnic,3
+shoveling soil,2
+chatting about car,1
+dark green,71
+tire,4
+puting banana,1
+jars,1
+pavement,3
+adjusting microphone,3
+hugging girl,1
+sunny,1
+washing tools,1
+in video,1
+fireplace,3
+food,36
+sound,3
+book and periodical,3
+showing goods,1
+observing,1
+on bath crock,3
+watching watch,1
+introducing european futures,3
+piazza,1
+breadmaker,1
+besom,8
+out door,3
+watching television,8
+teacher,3
+football court,3
+bird,3
+turning lights off,1
+opening water pipe,3
+bedroom,256
+blue-grey,4
+nodding and bowing,3
+wiping sunscreen,1
+blinking,1
+opening door of washing machine,1
+playing mobile phone,45
+wiping glass,1
+in building,4
+scalpel,1
+mediating in quarrel,1
+loading car,3
+frame,11
+frying radish,1
+listening to headset,1
+on ground,167
+throwing medicine bottle,1
+rolling out blanket,1
+putting box in closet,1
+adjusting frame,1
+juicing,1
+wood board in air,3
+pillows,1
+virisdis,1
+paper color,1
+hugging people,1
+fighting,19
+bicycle,12
+lowering,3
+sucking,3
+throwing bolster,2
+stacking chair,1
+in middle of stage,3
+machine part,3
+dog,74
+taking water,1
+commercial street,1
+displaying,2
+compere,1
+washing his hands,1
+observing good or bad,3
+applying ointment,1
+microphones,1
+horns on head,3
+leaning against,1
+silver white,1
+under chopping block,1
+tidying up pool,1
+bathtub,2
+american football,1
+cleaning up dust,4
+punching,2
+art painting,1
+wiping desk,4
+plastic case,3
+wiping things,1
+opening closet,10
+plastic can,1
+singer,1
+taking out bread,1
+finishing,3
+picking up books,3
+cleaning up door,1
+putting plates,4
+candy,1
+fixing car,4
+cleaning up trash,2
+picking up goods,1
+being hibernation,1
+broadcasting news,2
+walking up to table,1
+opening faucet,1
+tidying room,1
+decoration,4
+clicking,1
+chopping board,6
+bottle,108
+taking car keys,1
+operating camera,4
+cleaning up shelf,1
+throwing poster,1
+stirring and frying,1
+turning on lamp,1
+holding down,1
+making colored eggs,1
+discharging baby carriage,1
+covering,3
+in repair,3
+going down stairs,4
+on glass,3
+acting,5
+stele,3
+playing with toys,4
+cleaning phone,1
+baking sausage,1
+lotus root,1
+at corridor,4
+creeping,1
+riding motorcycle,9
+working,4
+dark-black,7
+putting on blanket,5
+hugging kid,3
+placing bag,2
+french light,1
+turning head looking,1
+right foot,3
+donald duck,1
+celebrating,4
+turn on lights,2
+opening microwave,1
+black green,4
+in pen holder,3
+at table,16
+bring cup,3
+church,3
+hundred,2
+dark blonde,1
+tidying things up,3
+wrist guard,1
+opening door of cabinet,1
+twenty three,3
+tv station caption,1
+sitting on table,1
+plastic bag,23
+video,3
+tortoise,1
+moving his feet,1
+cyan-grey,1
+enjoying program,1
+air conditioning,1
+counting eggs,1
+picking up computer,2
+vermilion,5
+turning on washing machine,4
+rotating,3
+rising head,1
+picking up something,4
+carrying handbag,1
+cleaning ground,3
+covering ears,3
+deep-blue,2
+closing cabinet door,4
+dark-yellow,3
+carrying,1
+bed sheet,6
+smog,4
+grid,2
+chopping,3
+broadcasting game,1
+carrying goods,1
+next to house,3
+by wall,6
+high-rise buildings,1
+saluting,1
+in front of cloest,3
+stools,4
+finding clothes,2
+throwing boxes,3
+placing phone,3
+bath ball,4
+dark-brown,2
+taking off her clothes,3
+into kitchen,1
+iron drum,1
+on guitar,3
+frying egg,1
+taking rag,3
+hiding human organ,3
+horizontal,27
+crossing arms,1
+brown yellow,6
+eating fruit,1
+painting eye makeup,1
+finishing sofa,1
+looking at cat,1
+taking clothes,34
+autodrome,3
+basketball,4
+faucet,2
+electric guitar,3
+stone pile,1
+putting book,3
+reading messages,5
+cutting crab,3
+bag,72
+class,1
+gray and dark blue,3
+broadcasting messages,1
+selfie,2
+putting down,2
+putting down his hands,1
+smelling food,1
+aurantium,1
+tidying cabinet,4
+crossing street,3
+sorting up,1
+bookcase,6
+waving,6
+horizontally,15
+earth,1
+rolling eyes,1
+having haircut,3
+pulling handle,1
+cooker,1
+note,1
+sweeping floor,58
+knocking things,3
+turning on lights,13
+in hand,25
+drawing curtains,3
+going to supermarket,3
+ivory,4
+watching,2
+iron barrel,1
+whirling,2
+wearing glasses,3
+dustbin,1
+walking away,1
+electric fan,11
+unpackaging,3
+window,26
+going to kitchen,1
+cleaning tv,1
+grey and black,2
+carrying bag,1
+child,17
+gun,24
+cleaning up clothes,1
+riding bikes,1
+vegetable market,3
+going on steps,1
+folding sheets,1
+on tv bench,9
+sorting shoes,1
+skateboard,4
+repairing lamp,3
+light switch,3
+tibetain green,1
+middle,3
+writting,1
+laundry liquid,1
+walking into door,2
+squeezing tomatoes,3
+variety show,1
+residential building,1
+throwing cushions,1
+taking square table,1
+catching book,1
+brush,10
+making call,18
+playing cellphone,6
+picking up bag,1
+sticker,4
+in boxing gym,3
+gymnasium,11
+folding towels,7
+zipping up,1
+vw,3
+in public,3
+putting down carton,3
+taking out of something,1
+motorbike,4
+vivid blue,1
+recording songs,1
+throwing towel to ground,1
+in great hall,3
+closing cupboard,1
+having match,11
+watching photo,2
+helping dog to dress,3
+taking book,16
+driving racing car,3
+colour modulation,1
+picking up dishes,1
+european futures table,3
+ash gray,5
+low,3
+washing,4
+covering clothes,1
+dancing,114
+earphone,27
+taupe,3
+answering questions,1
+blowing nose,4
+black mouse headdress,1
+protective earphone,3
+looking at room,1
+standing in bird cage,1
+turning off fire,1
+in sea,6
+performance,1
+water tap,4
+guitarist,1
+track and field,3
+closing fridge door,1
+making delicious food,1
+stocking tableware,1
+cellphone,17
+potting,1
+light black,11
+zynga,3
+watch video,1
+display,15
+on bus,6
+phone,102
+taking wrench,6
+in broadcasting room,3
+throwing out pillow,1
+spraying cleaners,1
+police,2
+rolling up sleeves,1
+shaking body,1
+oil drum,1
+gas cooker,1
+canary yellow,2
+closing refrigerator door,5
+recording news live,1
+showing stationery,1
+helicopter,3
+beer,3
+on show,3
+challenging for ball,1
+looking at cards,1
+closing tap,1
+opening curtain,1
+countertop,4
+watermelon,2
+shot by gun,3
+taking basin,1
+waving towel,1
+opening tap,2
+putting on another table,1
+electronic guitar,9
+unpacking express delivery,3
+clearing up bed,1
+screwing cap,7
+putting dishes,1
+toilets,15
+certificate of merit,1
+cutting watermelon,3
+classroom,7
+pulling door,1
+left hand,75
+packing laptop bag,1
+chasing,1
+dumbbell,8
+undress,3
+looking up notebook,1
+gainsboro,3
+leaning against wall,1
+on washer,3
+shaking tail,3
+white plaid,2
+watching robot perform,3
+vacuuming,1
+wiping cabinet,2
+touching,1
+on white furnitures,1
+drawing skeleton,3
+film,2
+sleeve-fish,1
+taking beverage,3
+cutting sample,1
+pouring water,43
+washing vegetables,1
+variety game,1
+folding clothes,10
+drying clothes,1
+taking rest,7
+taking call,1
+loudspeaker,1
+figure,1
+leather bag,1
+sunglasses,9
+study,1
+bosom,8
+in sky,13
+finding things,4
+seeing program,1
+close door,1
+training ground,3
+salver,2
+ferrari,3
+colored paper,3
+apron,10
+pomegranate,1
+on refrigerator,12
+square cloth,1
+lying down,65
+fruit plate,1
+commentating,1
+black and grey,1
+hooling flute,3
+teaching,4
+bring cushion,1
+setting her hair,1
+reading jokes,1
+navy,1
+beside tv,3
+phoning,1
+lighting light,1
+chopping block,1
+drinking,30
+in bedroom,136
+taking shrimp meat,1
+day,3
+earth gray,1
+robot,2
+in crowd,3
+on dining table,1
+cart,1
+bean,3
+taking medication,1
+turned on,3
+cleaning dust,1
+taking up towel,1
+vacuum cleaner,31
+five,11
+turning up washing machine,1
+putting down things,1
+close stool,4
+going into challenges,3
+looking far side,1
+getting pot,1
+grey green,2
+on driver's seat,1
+purple sauce,2
+playing with pet,3
+pushing tv button,3
+installing bulb,1
+aterrimus,89
+washing hair,1
+washing powder,1
+model,7
+putting lipstick on,3
+blue cyan,1
+sheep,3
+colorful,3
+ballroom,1
+guita,1
+turning on water valve,1
+buttoning up,2
+trash bin,4
+book,198
+folding blanket,3
+wipe,2
+per cent,1
+finishing grooming,1
+silvery gray,7
+stationary,6
+glass ball,2
+putting towels in order,1
+cambridge blue,1
+light orange,3
+toweling,1
+taking stuffs,1
+smileing,1
+on back of horse,3
+what is person doing in video,1
+sliver,2
+putting them in another bowl,1
+eye shadow pen,1
+cut things,1
+pink-purple,2
+making machine,1
+brownish gray,1
+cleaning up hearth,1
+dish,3
+downtown area,1
+dishes,11
+making telephone calls,4
+residence,384
+wiping his hair,3
+yan deeply red,1
+introducing food,3
+house number,1
+in front of computer,1
+cleaning up items,1
+repairing home appliances,1
+holding parade,1
+assembling toys,3
+chair,270
+flying,15
+plum red,1
+turning on tv,2
+rocking,1
+buttoning,2
+taking duster cloth,1
+taking stairs,1
+arena,1
+watching computers,1
+on competition field,4
+edible oil,1
+paddle,4
+umbrella,5
+cleaning desktop,1
+iron bucket,1
+data,1
+watching videos,13
+baby-blue,5
+raising hands,1
+monitor,2
+putting clothes on chair,1
+primrose,1
+apricot,2
+on road,44
+trumpet,2
+grey blue,1
+throwing shoes,6
+taking tool,1
+research specimen,3
+tidying things,1
+one six,1
+cleaning door,1
+broom,47
+smile,4
+darkish red,1
+taking seat cushion,1
+milk,5
+observing camera,2
+light- green,1
+watch,43
+cup,304
+creamy white,149
+stuffed toys,2
+bun,3
+collating wardrobe,2
+plastic bottle,11
+looking at carton,1
+handicrafts,1
+boots,1
+upstairs,3
+bathtubs,1
+finishing blanket,3
+cleaning table,7
+quilt,32
+ski,1
+indigo blue,3
+putting pot cover,1
+in meeting room,1
+putting away hat,1
+having water,2
+watching film,2
+bear,3
+alarm clock,1
+cyan-white,1
+writing,58
+foot pad,1
+playing table tennis,7
+brown,182
+taking bread,4
+bus,1
+putting camera on table,1
+washer,4
+watching matches,1
+simple,9
+brow-black,1
+filming car's condition,3
+ambulance,1
+showing car,1
+wiping shawl,1
+taking plate,6
+cabinets,1
+watching information,1
+usb flash disk,1
+vertical,3
+computer parts,1
+by river,12
+painting eye shadow,1
+on wrist,3
+cutting green vegetable,1
+opening something to eat,1
+game handle,3
+new,1
+having drink,4
+boxes,1
+cartoon character,11
+tuba,1
+taking up plates,1
+chopper,1
+tying shoelaces,1
+rose hermosa,2
+raising hand,2
+doing fishing,3
+having art class,1
+reddish brown,1
+water faucet,1
+pouring oil,1
+fishing net,3
+observing pillow,1
+ice locker,1
+performing chorus,1
+pushing car,6
+volleyball court,1
+eat something,1
+hands,18
+smalt,25
+taking part in variety competition,1
+in middle of screen,3
+giving lecture,5
+cruet,1
+in hall,1
+spider,4
+picking up items,1
+bike,8
+dark red,64
+website,3
+approaching door,1
+shampoo,7
+blue,707
+pouring ingredients,1
+akimbo,1
+on shoes,6
+company,3
+playing musical instruments,1
+frying shredded meat,2
+machine puppet,3
+deep fryer,3
+deep white,2
+taking drink,4
+kitchen table,4
+watch tv,1
+by window,3
+taking photos,31
+grabbing books,1
+turuoise,1
+on board,6
+spitting water,1
+moving something,1
+applauding,4
+noodles,1
+road,11
+pictures,6
+closing box,2
+turning around,10
+telephone set,2
+looking in to mirror,2
+organizing table,3
+fountain,2
+horn,1
+on football field,3
+english letter,6
+drinking wine,1
+organizing backpack,4
+school bus,2
+buff,4
+getting up to go out,1
+mini microwave oven,3
+shoe rack,1
+interviewing,12
+smoke blue,1
+black and blue,2
+washbasin,5
+combating,1
+kneading face,1
+light blue,109
+snowmobile,1
+flipping,1
+light-green,6
+ringing doorbell,1
+playing video games,1
+touching woman'face,1
+excavator,3
+sword,9
+holding cat,1
+standing there,1
+placing clothes,8
+fixing lamp,1
+moving stuff,1
+carnival,1
+table,222
+stretching arms,6
+pulling pants up,3
+white gold,1
+have beard,3
+standing,6342
+operating computer,6
+pot,114
+crowd,1
+looking at washing machine,1
+turning in light,1
+picking up blanket,2
+putting computer in bed,1
+wedding scene,1
+taking oatmeal,1
+lifting quilt,2
+giving up one's seat,1
+cleaning,41
+elevated highway,1
+fifteen,2
+in living room,189
+egg,11
+scratching legs,1
+racing car,1
+throwing schoolbag,1
+studio,50
+drink,2
+raising one's head,1
+going upstairs,11
+green plant,1
+public place,23
+man,103
+walking around,8
+switching off tv,3
+vehicle wheel,1
+taking snake,1
+looking at something,1
+in house,450
+handling dust,1
+playing phone,65
+cannon,3
+car seat,1
+taking plates,6
+purplish blue,5
+checking camera,1
+twisting doorknob,1
+taking paper box,3
+in cup,9
+cloths,2
+in car tv,1
+measuring length,1
+quarreling,1
+voice tube,3
+stepping in front of desk,1
+lying on ground,1
+pendulum table,1
+rubbing hair,1
+in mountain,3
+shaking towel,3
+in bowl,3
+tank,1
+coriander,4
+putting cup on right hand,1
+cotton swab,1
+watching program,1
+manuscript,1
+girl,1
+throwing cushion,1
+by competition terrain,1
+taking up cup,1
+putting in bottle,1
+cutting potato,1
+putting on shoes,31
+uniform,1
+introducing products,1
+jasper,6
+taking off pants,1
+washing face,1
+lying lying,1
+making research,2
+tibetain black,1
+blanket,74
+brushing cups,1
+dusty blue,1
+marine blue,19
+paper folding,5
+on stone step,1
+looking at picture,3
+hospital,6
+wiping wall,1
+throwing sheet,1
+drying hair,1
+showing,4
+ice,1
+watching light,1
+installing tail wing,1
+hoodies,3
+what is man doing in video,2
+lake blue,19
+turn off lights,3
+playing rugby,3
+taking microphone,1
+taking case,1
+in corridor,18
+ham,3
+cleaning mirror,6
+preying,2
+green vegetables,1
+hanging paintings,2
+gas stove,3
+water glass,3
+plastic,6
+orange and yellow,1
+watching cartoon,3
+cookers,1
+putting things into fridge,2
+picking up plastic bag,1
+clearing floor,1
+turning over book,3
+storage basket,1
+putting away pillows,1
+four,45
+leading camel,1
+placing stuffs,1
+placing items,20
+neutral gary,1
+on stalls,1
+boy,7
+clearing up baby carriage,1
+lipstick,1
+putting away mobile phone,1
+coping,3
+catching cat tail,1
+primrose yellow,1
+necklace,33
+glass tank,1
+putting down backpack,1
+tap water,1
+television station,2
+making toy,3
+laundry powder,1
+arranging sheet,1
+spice bottle,1
+on oven,1
+picture frame,3
+hair band,6
+at door,5
+covering box,2
+dreaming,3
+refrigerator,74
+is headlight in video open or closed,1
+one painting,3
+olive green,1
+performing acrobatics,3
+shaking door,1
+at auditorium,3
+portrait,3
+beside car,3
+stacking blanket,1
+lunch box,4
+drying sweat,1
+getting clothes,1
+scoop,2
+placing,3
+indoors,95
+cabbage,1
+shaking his body,1
+taking off his pants,1
+copying,1
+opening cartons,1
+folding,1
+wiping cooktop,2
+player laughing,1
+closestools,1
+brownish red,9
+patting broom,1
+eating fruits,2
+adjusting cooking fire,1
+corner of wall,10
+fanner,1
+raising her hand,1
+wrist watch,10
+cartoon,28
+afternoon,2
+reporting,1
+in dish,3
+making meals,4
+snapping fingers,1
+touching photo frame,1
+brandreth,2
+grandma gray,1
+wiping arms,1
+creamy yellow,1
+indoor,1155
+holding bottle,2
+microwave,5
+listening,2
+lowing head,1
+clapping,8
+brick red,1
+rowing,1
+land,3
+boxing,5
+fruit tray,1
+brushing his teeth,1
+line,2
+beating things,1
+atropurpureus,1
+dark blur,1
+washing plates,1
+opening mouth,1
+hamster,6
+cutting something,1
+perfume,1
+taking mobile phone,2
+door,65
+pieces of cloth,1
+serving,1
+table mats,1
+mouse,41
+looking for clothes,2
+taking washing powder,1
+running,82
+on whitecloset,1
+killing squid,1
+hanging picture,1
+repairing computer,1
+taking interview,1
+air conditioner,3
+light-grey,10
+beverages,1
+offwhite,3
+taking mop,1
+trotting,2
+fire extinguisher,3
+light green,54
+orangutan,4
+taking off vest,1
+three,85
+in cabinet,28
+twelve,1
+airplane,1
+pulling up pants,1
+wearing jacket,1
+spoons,1
+drawing,11
+one hundred,1
+lightning,1
+folding pants,1
+finishing room,1
+testing,3
+vacuum,5
+checking out snacks,1
+merry-go-round,1
+taking lid,1
+glass green,2
+introducing car,10
+seeing mobile phone,1
+passageway,2
+cummerbund,3
+lifting hammer,1
+calendar,15
+taking on coat,1
+on door knock,3
+have eyes,1
+eyes,3
+going to living room,1
+pulling out phone,1
+washing sink,4
+taking pillow,17
+potted plants,1
+putting down plastic bag,1
+in storeroom,1
+mouse pad,2
+tossing clothes,1
+head,3
+salt,3
+holding plates,1
+learn knowledge,1
+taking rags,1
+building,3
+tags,2
+historical site,1
+turning book,3
+button,5
+regimentals monkey suit,1
+trash can,6
+mark cups,1
+flipping through book,2
+stirring and frying pan,1
+in glass bowl,5
+putting down pot,3
+snow white,2
+throwing things,8
+steamed bun,1
+lawn,25
+rubbing things,1
+laptop bag,1
+disk,1
+watering,1
+computer desktop,1
+sorting pillows,1
+washing machine,36
+on shelf,54
+playing game,10
+wooden cabinet,3
+moving things,3
+mobile,1
+meatball,3
+prairie,1
+in washing machine,6
+doing sports,3
+gallopping,1
+school bag,2
+in front,3
+sticking into socket,1
+throwing something,4
+reading books,33
+hammer,2
+in midpoint,2
+checking toilet,1
+dust elimination,1
+shooting site,1
+cross-country-vehicle,1
+plant,7
+putting down mirror,1
+taking phone,17
+getting bread,1
+french grey,3
+ten,1
+tidying up tableware,1
+light-white,1
+finishing hairstyle,1
+playing drifting,1
+plastic bags,5
+dizzying and touching head,1
+beside sound,2
+off,12
+on court,12
+plastic box,6
+garbage,1
+drinker water,1
+veil,3
+closing door of closet,1
+taking medicine,16
+next to text,3
+clothes,269
+putting on table top,1
+platform,3
+washing shoes,1
+in front of closet,6
+spray lacquer,3
+mahogany,2
+making dishes,2
+putting away stuff,6
+playground,9
+bringing box,1
+playing with rubik is cube,3
+opening wardrobe door,1
+packing something,1
+taking exercise,4
+at back of door,1
+family photo,2
+hanging clothes,7
+mulberry,1
+filming in sky,3
+tearing off paper,1
+picking up juicer,3
+employee's card,3
+bracelet,7
+rocking chair,1
+hair clasp,3
+balls,1
+denim blue,5
+wearing clothes,25
+purply,2
+cinema,3
+placing gun,1
+prize,1
+touching nose,1
+closed wardrobe,1
+bar,1
+accepting interview,1
+folding clothing,2
+introducing,9
+ship,2
+sandals,1
+repairing,6
+army-green,2
+western-style clothes,2
+turning over handbags,1
+bathing animal,1
+tidying up hair,1
+brown grey,1
+displaying toys,3
+sliver white,6
+mesh enclosure,1
+cutting dish,1
+introducing product,6
+saffron,5
+eating food,11
+make-up room,1
+pouring back to plate,1
+gunshot,3
+watches,1
+crimson,50
+small map,1
+words,1
+light-black,1
+transparent,6
+spongebob,4
+emerald green,5
+taking selfies,3
+carrying backpack,3
+hugging dog,1
+pale grey,8
+looking out window,4
+on snow mountain,10
+touring,1
+under table,3
+going for drive,3
+picking up cloth bag,1
+on stool,21
+mommy,3
+putting down plate,2
+buying goods,1
+auto function button,1
+brown and white,1
+satellite,3
+wiping bottle,4
+silver grey,13
+key,6
+fetching nail polish,2
+finishing cabinet,1
+doing homework,4
+handcuffs,1
+eardrop,1
+tying shoelace,2
+package,1
+going put,1
+grass,12
+bridge,5
+cola,4
+preparing dishes,2
+park,6
+taking tissue,1
+tidy up closet,1
+studios,9
+fillingfood,1
+white,1338
+pick up towels,1
+catwalk,1
+hair dryer,2
+taking glasses,2
+dusk,3
+walking,204
+computer desktop wallpaper,1
+armrest,7
+horse racing,3
+journal,1
+ocean-blue,1
+carrying carton,2
+pair od pants,1
+picking up besom,1
+beige color,3
+on grass,19
+diving,1
+throwing punch,1
+trailer,1
+wall painting,2
+residential,2
+dating bread,1
+faint yellow,10
+sun yellow,1
+drawing picture,2
+on broadcasting room,1
+filming,7
+fetching shoes,1
+dressing,2
+turn over book,1
+leopard,5
+shrinking in hole,1
+mopping floor,6
+raising picture frame,1
+market,1
+opening washing machine,4
+on carton,6
+putting phone on table,1
+chandelier,1
+swimsuit,3
+in pool,7
+change program,1
+gmc,3
+wooden frame,1
+in middle,4
+pouring beverage,2
+going downstairs,10
+picking up things,3
+going away,1
+powdering,1
+cartoon painting,3
+showing baby carriage,1
+fixing things up,1
+raising his head,1
+tuning television,1
+introducing goods,1
+reading newspaper,5
+wobbling,1
+third,6
+putting computer,4
+folding umbrella,1
+arranging table,3
+pouring filter screen,1
+laying down,2
+protective cover,1
+nail brush,1
+rubbing hand,1
+pouring laundry detergent,6
+sailboard,1
+cleaning broom,1
+typing,13
+watching something,2
+rear camera,2
+placing boxes,1
+wiping table,17
+picking up clothes,7
+bean green,1
+theatre,4
+chopsticks,1
+claping,1
+turning light on,3
+pillars,2
+folding silk scarves,1
+putting washing machine,1
+glass bottle,5
+symbol,1
+doing things,3
+in washingroom,2
+opening cabinet door,9
+brown stripe shirt,1
+peach pink,3
+explaining formula,1
+electronic bike,3
+choosing tools,1
+turning off computer,7
+clothes hanger,3
+retrogressing,1
+on top,1
+taking out boxes,1
+flapping pillow,1
+rubbing plasticene,1
+watching video,15
+tidying up pillows,1
+moppet,1
+operating machine,3
+gps,1
+under steering wheel,3
+on roller coaster,3
+taking snacks,1
+number,5
+getting dressed,10
+by sea,6
+on grasslands,1
+snowwhite,1
+purplish brown,1
+greyish white,1
+drifting,2
+coughing,1
+printer,1
+ketchup,3
+moving text,1
+sweeping something,1
+playing magic cube,3
+right hand to do operation,1
+touching hair,6
+finding documents,3
+pure black,43
+presidential debate,1
+dusty gray,3
+toilet paper,2
+zoo,1
+glass cup,1
+pigment,5
+roads,1
+paper extraction,1
+doing program,1
+sewing machines,1
+introducing baby carriage,1
+grey and green,3
+triangle shelf,1
+clock,24
+protective screening,1
+by windows,3
+basketball court,17
+brushing plate,7
+vacuuming floor,2
+main engine,1
+lid,1
+getting tools,1
+getting bangs,1
+on dialog box,3
+clearing up closet,2
+amaranth,6
+iron bowl,1
+fat,6
+taking kettle,4
+storage rack,3
+desk lamp,8
+gold,1
+clothe hanger,1
+something horrible,3
+song fans,1
+having class,1
+touching dog,1
+traninng animal,1
+yellowish-brown,1
+sliding door bolt,2
+eating sandwiches,1
+butterfly,3
+vertically,3
+eating cookies,2
+taking out back cushion,1
+statistical chart,1
+photo frame,46
+rose,15
+soil,2
+cast of characters,1
+headless,3
+concert,3
+hairpins,1
+keeping guard,1
+can,9
+dark purple,26
+opening fridge door,2
+wiping table top,1
+brown-yellow,1
+preparing food,1
+hand flowers,3
+taking two bowls,1
+throwing pillow,21
+car spinning,1
+farthest to right,3
+chopping potato,3
+prefessional suit,1
+frying food,1
+screwing bottle,1
+looking outside window,6
+pouring coffee,1
+applying face cream,1
+photostudio,1
+submachine gun,1
+wooden frames,1
+turning on computer,10
+surfing internet,1
+in glass,3
+gestures,3
+bright yellow,3
+where is sofa in video,2
+challenging,1
+purple-blue,1
+basketball hoop,4
+knocking on keyboard,1
+jewelry blue,1
+on back,3
+in cupboard,15
+wiping floor,2
+placing box,2
+toys,2
+stadium,9
+fish bowl,1
+in corner of room,3
+orchid sample,1
+bringing clothes,2
+ing house,1
+picking up bolster,1
+playing ball game,1
+knife,19
+rearcamera,1
+medicine bottle,3
+magenta pink,1
+smoking machine,1
+in iron pot,1
+looking at camera,5
+is woman in video standing or sitting standing,2
+opening window,8
+corridor,53
+picking clothes,2
+computer image,3
+prying door,3
+putting down washing powder,1
+surfing,3
+performing magic,2
+in cloakroom,2
+on competition terrain,3
+star wars,3
+covering mouth,2
+router,2
+japan,1
+take off clothes and put it in bucket,1
+seat cushion,2
+gray black,14
+testing stadium,1
+eaves,1
+playing with camera,1
+lightblue,1
+electronic screen,3
+arranging sundries,1
+salmon pink,1
+toy scene,1
+army green,10
+cheering,2
+on cabinet door,3
+subtitle,5
+putting down pillow,4
+laying out clothes,3
+venue,3
+palegreen,2
+red and white,2
+opening carton,2
+earrings,13
+sponge pad,3
+typing on computer,1
+car door,1
+sauce,2
+wood version,1
+doorway,34
+safety belt,3
+moving car seat,1
+stick,4
+rice white,11
+mop,9
+foam,1
+pour watering,1
+fire red,1
+electronic,1
+cloth strip,1
+throwing bottles,3
+wiping toy,1
+putting away plates,1
+happy,1
+fine,2
+daytime,15
+finger,2
+holding bolster,2
+target,1
+purple blue,2
+shaking feet,1
+taking something,16
+wiping mirror,5
+tidying up blanket,1
+front desk,1
+on sewing machine,3
+dismantling cases,1
+closing cap,1
+looking at shoes,2
+taking besom,3
+file,3
+liquid detergent,2
+playing rubik's cube,3
+playing,15
+performer,1
+on water tank,3
+wash room,2
+washing pot,3
+in bathtub,1
+putting camera,1
+walking toward door,1
+checking cabinet,1
+wrapping powder,1
+wine bottle,3
+on ceiling,3
+closing laptop,1
+picking up cloth,1
+jar,26
+noodle,1
+paper,52
+on sofa,104
+mosquito swatter,1
+getting cup,3
+shaking leg,1
+sound box,1
+placing sundries,1
+moving,18
+holding pen,3
+opening light,1
+glass table,1
+scarves,2
+sausage,2
+dancer,4
+looking for thing,1
+heating,3
+sepia,4
+audi,3
+selfie stick,6
+towels,4
+taking photos for environment,3
+pouring things,3
+tidying up clothes,3
+female,76
+yarn,3
+holding vacuum cleaner,1
+tidying hair,2
+what is person in video doing,1
+crowbar,3
+coat,2
+looking information,1
+electricity,1
+placing cell phone,1
+drinking milk,11
+court,23
+arm,1
+shake left and right,3
+experimenting,3
+trousers,10
+on kitchen cabinet,3
+flag,1
+watching movies,2
+snacks,26
+drying her hair,2
+standnig,1
+taking box,5
+iron plier,3
+in utility room,1
+glass jar,3
+sitting on floor,1
+lifting baby carriage,1
+riding bike,3
+sea,1
+magenta,9
+wiping door,4
+taking mat,4
+branch,3
+putting blanket,2
+hoary,1
+street,3
+tibetain blue,5
+wrestling,26
+painting,76
+turning lights on,1
+cooking dish,1
+inside house,120
+river,7
+next to car,15
+folding towel,5
+taking umbrella,1
+luggage,3
+at staircase,1
+brown red,4
+bin,1
+deep black and white,1
+checking items,1
+taking face film,1
+shoes,75
+iron box,1
+carrying something,1
+fit picture,1
+looking at things in hands,1
+dinosaur fossil,1
+moving items,2
+washing his face,1
+amusing cat,3
+side of stadium,1
+pushing baby carriage,1
+runway,3
+putting basket,1
+pair of shoes,4
+taking things out from refrigerator,3
+tablet,4
+chopping monster,1
+placing ingredients,1
+drinking beverage,17
+weapon,4
+above ocean,1
+vegetables,8
+hanging on rope,3
+taking picture,3
+flicking switch,1
+straight hair,3
+throwing pants,1
+footballer,1
+ivory-white,7
+holding gun,1
+badminton court,3
+human,9
+basketball player,1
+towel,70
+opening refrigerator,38
+battery car,1
+rostra,3
+playing softball,3
+wheelchair,1
+in front of door,6
+groveling,6
+slipper,4
+playing his cellphone,1
+making preparation,1
+book rack,1
+medicine,6
+on boat,2
+in staircase,4
+on canopy,3
+water pink,2
+throwing away books,1
+showing items,2
+cleaner,7
+taking bowl,3
+leopard grain,3
+forehead,3
+roller coaster,1
+spinning chair,1
+saucer,4
+turning pages,1
+taking lamp,2
+in front of table,9
+red white,1
+outside store,3
+holding door,1
+taking out milk,1
+lying on bed,2
+green belt,1
+putting bottle,1
+going on foot,1
+cooking rice,3
+shopping,3
+making things,1
+taking can,1
+e-reader,3
+holding pillow,20
+kissing,5
+in kitchen,152
+commenting,1
+protective headgear,1
+unloading screws,3
+round earrings,2
+leaflet,1
+blowing with hair fryer,1
+zipping,4
+iron gate,2
+bright-yellow,1
+observing mobile phone,1
+laundry detergent,24
+mazda,3
+screen,7
+throw someone kiss,1
+flapping sheet,1
+long sleeve,6
+getting into door,1
+moving forward,3
+water,31
+putting pillow,3
+sorting out kitchen,1
+debating,1
+birdcage,1
+arm around waist,1
+putting bread on chair,1
+carrying box,2
+tablecloth,12
+dull gray,3
+taking bottle,9
+lake,2
+photography,1
+washing hand,2
+in laundry room,3
+playing pingpong,3
+flowing,3
+sapphire blue,9
+green,364
+taking off earmuff,1
+bending,1
+potato,6
+waste container,5
+arranging shelf,1
+lifting plate,1
+holding up things,1
+earthy-yellow,4
+taping keyboard,1
+straw,3
+fixing lock,1
+soap,1
+cochineal red,1
+watching computer,23
+locker,1
+ruler,4
+taking things,56
+deep purple,20
+astronaut,1
+short sleeves,3
+vehicle,6
+attacking,4
+search information,1
+in locker room,1
+moving up and down,3
+artificial flower,1
+cobalt green,2
+incanus,4
+placing food material,1
+packaging radish,1
+headwear,1
+observing mirror,1
+on catwalk,1
+bed desk,1
+black and white,15
+shooting something,1
+fans,1
+closing trunk,1
+sky blue,42
+in waiting area,1
+deer,2
+defending,1
+on hillside,1
+daubing bread,1
+blindpass,1
+performing show,1
+azure blue,18
+fiddling decorative lamp,3
+croci,6
+on street,39
+competing,16
+reddish orange,2
+reading paper,1
+hanging on wall,33
+royalblue,4
+taking water cup,1
+shaking,6
+getting water,1
+preparing to fishing,1
+practicing gymnastics,1
+behind iron net,3
+flower color,4
+seat,9
+taking video,2
+washing plate,1
+rubbing his eyes,1
+plying football,1
+scratching chest,1
+letter,2
+taking pen,1
+cabinet door,5
+stepping on eggs,1
+tidying up desk,4
+scarlet,7
+seasoning,5
+pushing cart,1
+putting on glasses,1
+modern fancywork,4
+taking file,2
+walking back and forth,1
+tabbing,1
+sorting dishes,1
+hand on shoulder,1
+playing baseballl,1
+rice ladle,1
+finishing shoes,1
+traveling and playing,3
+in water,28
+set fire,1
+throwing carton,1
+on seat,4
+at top of house,1
+yard,4
+blue-gray,3
+drink water,2
+putting out fire,4
+asia,1
+closing curtain,1
+straw yellow,1
+ginger,1
+plating,3
+on washing sink,6
+field,14
+wallet,4
+having medication,1
+buying vegetables,3
+touching head,4
+playing with mobile phone,1
+putting down notebook,1
+mineral water,2
+tangerine,9
+lifting toys,1
+dull-red,1
+light grey,54
+earth yellow,5
+monkey,5
+outdoor,145
+light thite,1
+powder cake,1
+navy-blue,2
+rubbing head,1
+looking articles,1
+on knife holder,3
+on cabinet,54
+seeing bird,1
+crab,4
+strolling,1
+on tree,1
+lifting certain,1
+orange-red,3
+green vegetable,3
+in microwave,2
+running away,3
+on closet next to bread,1
+cavity knight,3
+singing live,1
+medium grey,3
+waving his hand,3
+putting away things,13
+laptop,48
+wind tunnel,1
+hint,3
+movie camera,4
+spinning web,3
+look at computer,1
+putting on lipsticks,1
+our city,1
+internet caf,3
+putting bread,1
+pick up basin,1
+cloakroom,19
+putting down bread,1
+vegetable,6
+umber,1
+tattoo,6
+opening web page,3
+communicating,1
+wiping articles,1
+peaked hat,1
+rose powder,1
+in inn,3
+reading instructions,1
+on,54
+plastic bucket,5
+untying shoelace,1
+shaking out blanket,1
+throwing rubbish,3
+on runway,7
+scene,1
+locking door,2
+paying guitar,1
+sea blue,6
+film editing network,1
+pulling table,1
+flute,3
+strip,1
+rubbing nose,4
+riverside,3
+talking about car,1
+showing book,1
+dust collector,1
+pot culture,1
+baby blue,21
+taking ingredients,1
+entering bedroom,1
+snow boots,1
+stroller,9
+telephone,7
+cosmetics,3
+holding hands together,1
+taking notes,3
+where is man in video,2
+illumination,1
+bring plastic bag,1
+box lunch,1
+boiling food,1
+pale green,12
+taking blankets,2
+getting out of bed,1
+cartoon plane,3
+washing cups,1
+beige white,25
+laundry room,10
+paper bags,2
+exhibition hall,3
+holding plate,2
+letting off fireworks,3
+small tree,4
+flipping bags,1
+setting of pillows,3
+shaking camera arm,1
+inventory tabs,1
+tidying sundries,1
+leaving,1
+sewing machine,5
+outside house,5
+soft skyboard,3
+workbench,3
+having meeting,3
+opening computer,5
+wooden bench,1
+beverage bottle,1
+bright blue,2
+basking in sunshine,1
+wall,16
+plum,2
+handing into pot,1
+playing tablet,4
+beside desk,3
+populace,1
+peach-red,1
+poster,20
+on face,6
+bright-red,6
+tidying up table,1
+taking cup,27
+sweeping rubbish,1
+closing carton,3
+holding hands,3
+stroking his beard,1
+seat adjustment function,1
+back bag,1
+getting up,16
+touching mustache,1
+filming tv show,1
+one,39
+yes,75
+putting in box,1
+shell,1
+acoustics,1
+frying beef steak,1
+looking at phone,13
+shrimp,3
+brown gray,3
+folding scarf,1
+looking through bags,1
+shaking shoes,1
+taking bottles,2
+fish,9
+putting towel,5
+turning up light,2
+display screen,2
+taking pics,1
+measuring,1
+next to desk,3
+crown,4
+doing general cleaning,1
+spoon,16
+taking bowel,3
+bringing laptop,1
+placing banana,1
+sphinx,1
+bedside,3
+to close door,3
+jeans,3
+sticky note,1
+dropping litter,1
+capitol model,1
+cleaning up floor,1
+washing basin,1
+bottle green,11
+taking sheet,1
+moving body,1
+cave,3
+brick,3
+orange yellow,11
+smashing pages of book,1
+hair accessories,1
+reading,72
+ashtray,2
+playing mobilphone,1
+taking cookies,1
+bluish yellow,2
+green-brown,1
+in shopping mall,1
+pure-black,10
+looking at wall,1
+attending meeting,1
+floor,4
+water cup,38
+showing himself,1
+jumping,16
+next to door,8
+blue and black,9
+watching photos,6
+cooking meals,2
+in carport,1
+filter screen,1
+flipping pages,1
+turning off light,11
+tan,14
+chestnut red,1
+carrying bags,1
+blue-green,2
+opening water tap,1
+camera shooting,1
+putting down bag,3
+touching camera screen,3
+midwinter phenomenon,1
+drawing curtain,6
+opening lid of bottle,1
+on his body,3
+patch,3
+putting down towel,4
+sitting,2440
+taking off headphones,1
+sprinkling water,1
+making cuisine,1
+putting on dress,1
+wet,3
+dismantling wire interface,3
+taking broom,6
+pillow,155
+bowel,8
+arranging items,4
+singing,120
+rehearsing show,1
+in pan,3
+on square,3
+washing bowl,2
+into bathroom,1
+bomb,3
+in washer,3
+opening he refrigerator,1
+on toilet tank,3
+comb,2
+decorative painting,9
+slogan,3
+watching phone,12
+polar bear,1
+tying shoe laces,4
+flashlight,8
+eating cat tail,1
+in closet,21
+showing foods,1
+taking off coat,19
+photograph,6
+putting down case,1
+opening lid,2
+sorting out clothes,2
+putting bag,1
+three lines,3
+wooden door,2
+tossing out pillow,1
+beside sofa,6
+foods,1
+wrestler,1
+arranging things,1
+looking at photos,6
+touching clothes,2
+performing programs,1
+in refrigerator,9
+listening to teacher,1
+hair braiding,6
+coffee color,1
+cook,1
+deep red,1
+study room,3
+dazing,1
+on left hand,1
+putting seasoning,1
+tellurian,4
+placing clothing,1
+taking owel,1
+bright green,1
+playing computers,3
+phones,1
+tapping water,3
+throwing backpack,3
+wood door,1
+carrying paper,1
+off-white color,2
+throwing duster cloth,1
+on platform,2
+looking at cup,3
+roof,2
+black spider,1
+adjusting glasses,1
+large building,1
+organizing sofa,1
+onion,4
+handling computer,1
+operating,1
+pressing remote control,1
+being injured,1
+moving mirror,1
+in direct broadcasting room,3
+year two thousand and eight,1
+expressing idea,2
+washing quilt,1
+commode,2
+orange-yellow,3
+grey-white,3
+sitting against wall,3
+next to ship,3
+rubik's cube,4
+mannequin,1
+sliding plate,1
+clearing barrier,3
+making paper airplane,2
+dark black,77
+operating mobile phone,2
+cleaning shoes,2
+putting down computer,3
+stretching,2
+towel rack,1
+fan,14
+reading instruction of bottle,1
+pizza,2
+pepper,2
+what is man doing in cartoon,1
+gathering strength,1
+sitting up,3
+taking cellphone,2
+grey-green,1
+kneepad,3
+doing demonstration,3
+holding cover,1
+on steps,11
+making dough,1
+playing guitar,32
+arctic,1
+piano,9
+machinery equipment,3
+in audience,1
+bed product,1
+little yellow dog,1
+mountaineering bag,1
+blankets,7
+security door,1
+in toilet,7
+watching game,6
+paperbox,1
+shelf,50
+on tall building,3
+picking up cellphone,1
+pouring food,1
+reading book,59
+violet,37
+cylindrical water vat,1
+tally book,1
+holding woman,3
+watching mother,1
+chatting,139
+next to table,1
+using net pocket,1
+observing photo frame,3
+competition terrain,2
+writing desk,3
+putting down book,4
+beige,40
+wiping plates,2
+picking up medicine,1
+in public place,1
+wood,2
+purple-brown,1
+applying facial mask,2
+stopped,12
+picking bottle,1
+getting milk,1
+placing bread,1
+against wall,7
+electric drill,3
+stairs,40
+seeing photos,2
+putting away clothes,6
+minecraft,6
+tourist attractions,3
+tidying towels,2
+back-bag,1
+applying foundation,1
+sunshine,2
+water bucket,2
+bracelets,3
+on dinosaur,3
+repairing cabinet,1
+pouring detergent,1
+mirrors,1
+taking laundry detergent,1
+to disperse people,3
+grabbing ball,1
+have letters,1
+drinking something,2
+turning off lamp,1
+taking out trash,2
+thinking,1
+on business street,1
+opening boxes,2
+placing water,1
+catwalk show,9
+china,3
+oven,12
+greyish-green,1
+cleaning up mess,2
+curtain,37
+filming video,3
+snowfield,6
+blue and gray,1
+pouring flour,1
+holding computer,1
+red,562
+coloured ribbon,1
+on stairs,131
+pale yellow,11
+stroking hairs,1
+in game site,2
+computational formula,3
+playing and fighting,1
+putting down bags,1
+notice,1
+suv,1
+holding broom,2
+light gray,62
+in river,7
+holding up carpet,1
+in carton,6
+no,33
+pumpkin,14
+juicer,3
+bluish white,1
+in space,1
+runway four,3
+opening book,3
+eating hands,1
+pliers,3
+by lake,3
+guard,1
+in supermarket,3
+hand,5
+handrail,6
+instructions,1
+sandpit,1
+mandarin oranges,1
+in middle of room,3
+making pancakes,3
+wathet blue,1
+taking computer,8
+card,5
+at evening,1
+getting food,1
+hanging painting,3
+bouncing,4
+in storage room,2
+closing door refrigerator,1
+dressing room,1
+sniffing food,1
+washing spoon,1
+five hundred and twenty eight,1
+air fan,1
+giraffe,1
+firework,3
+watching fireworks,3
+in container,2
+opening up files,1
+fruit,6
+snow mountain,8
+telegraph pole,1
+measuring floor,3
+packing phone,1
+station caption,1
+getting off,1
+tool box,1
+looking outside of window,1
+playing drum set,1
+in dining room,2
+vidicon,1
+terpsichorean,1
+slivery-grey,1
+mopping,1
+brand,3
+opening gas tank,1
+racecourse,3
+grass greet,1
+earthy yellow,9
+washing dishes,5
+looking for same kind,1
+at bottom of screen,1
+pale pink,15
+weight lifting,3
+pure red,2
+taking towel,16
+putting rag,2
+playing badminton,4
+looking at documents,1
+talking about,2
+fogging,3
+picking up vacuum cleaner,2
+on hand,4
+tissue,4
+golden fish,3
+in spacecraft,1
+near window,3
+greeting,3
+picking plastic bucket,1
+putting down shoes,2
+cream,4
+twisting buttons,1
+kneeling,18
+resting,77
+football field,16
+pastry,1
+food can,1
+clear liquid,1
+uncover pot,1
+brown green,7
+socket,21
+living room,336
+athletes,1
+taking photo,18
+closing closet,5
+television,38
+traffic jam,1
+woman,67
+open,54
+looking at tiger,1
+on chair,67
+reseda,6
+switching hands,1
+fishing,3
+broken,3
+drawer,4
+setting cup,1
+blue violet,2
+throwing cloth,1
+buttoning button,1
+taking napkins,1
+bottle-green,1
+reporting news,4
+curly,18
+pink and purple,1
+cleaning up desk,4
+combing hair,1
+playing pull piece,3
+stirring ingredients,1
+taking off jacket,2
+washing pot cover,1
+purple,164
+taking planet,1
+placing plates,4
+hovel,4
+sorting things,3
+feeding,1
+putting clothes,9
+bean sprout,1
+hidden blue,4
+snow,1
+run-up,3
+eating ice cream,3
+self-timer,2
+baseball bat,4
+doll,19
+at stair hall,6
+camel,1
+cutting food material,1
+spring-cleaning,1
+opening something,3
+circle,12
+silver gray,7
+turning back,1
+putting box,1
+climbing,3
+hat,246
+wearing coat,1
+playing video,6
+tellurion,4
+trolley,1
+taking out some snacks,1
+gauze mask,3
+garage,1
+finishing bed,1
+get cup,1
+hitting monster,4
+picking up brush,1
+eggs,2
+preparing meals,1
+playing basketball,19
+cutting onion,1
+host,3
+smelling flowers,1
+arranging hair,3
+outdoors,19
+raise sail,3
+flipping through,3
+bright red,90
+lifting bucket,1
+opening car window,1
+ink green,1
+grannygrey,1
+seven,12
+putting clothes on,1
+on mountain,3
+table tennis,7
+tomato,1
+liquid,3
+booting,1
+shelter,6
+dark yellow,19
+blue azure,1
+wire,3
+three-dimensional,1
+carrying items,1
+changing lamp cover,1
+shovel,10
+game character,2
+taking stuff,1
+cooking food,1
+turning cap,1
+taking game pad,1
+drinking milktea,1
+dressing his hair,2
+tops,1
+compute,1
+going outside,1
+pan,11
+cloth,12
+on photo,3
+dark grey,77
+tape,1
+glove,7
+battlefield,1
+desk,94
+dining,6
+setting pillow,3
+cleaning up dishes,2
+handing fruits,1
+meat production,1
+taking camera,3
+cushions,3
+cyan green,2
+books,7
+doorknob,3
+throwing towel,4
+knitting cylinder,3
+lighting,2
+sitting on sofa,2
+milk-white,9
+throwing trash,2
+fifth floor,3
+modena,14
+putting down cloth bag,1
+playing games,46
+cleaning plate,1
+monster,8
+placing book,1
+rounding,2
+floating,3
+having conversation,6
+wash basin,4
+fence,6
+silvery-gray,1
+placing plate,4
+scarf,12
+cyan,34
+above ground,9
+checking lamp,1
+athlete,11
+throwing basketball,3
+national flag,7
+coffee,12
+eat food,1
+stb,1
+alizarin deep red,1
+jacket,6
+pulling curtain,1
+mixing things,3
+gasoline,1
+notebook computer,2
+air humidifier,1
+eating grass,3
+brushing eyelashes,3
+taking off your clothes,1
+grey and yellow,1
+dunking,2
+on pole,3
+pistol,3
+watching mobile phone,1
+opening laptop bag,1
+outside,2
+closing medicine bottle,1
+shaking clothes,1
+light cyan,8
+bed,99
+cowboy blue,1
+holding something,4
+taking remote control,2
+frying meatballs,3
+rolling,6
+explaining,26
+shower curtain,1
+trash can chair,1
+bowing,2
+barefoot,3
+drinking coffee,3
+couch,18
+opening box,11
+scorer,1
+on cooktop,15
+villa trail,3
+removing bottle,1
+edible,1
+snack,2
+next to projector,3
+eggplant purple,2
+pulling up cloth,1
+fuchsin,1
+shredded radish,1
+shop,1
+bumbershoot,1
+baby stroller,4
+wooden table,3
+packing book,1
+wolf,3
+long knife,3
+wathet,8
+on washing machine,24
+orange red,16
+sink,1
+male volleyball,3
+viewing car button,1
+tourists,2
+diyworks,1
+lying down under covers,1
+right side,3
+placing cup,6
+workroom,3
+cleaning trash,1
+yawning,3
+pending photos,1
+bunting,1
+screwdriver,8
+fixing things,1
+riding roller coaster,3
+curly hair,24
+having interview,1
+magazine,15
+taking on clothes,2
+putting away bed,1
+caramel,2
+character,4
+displayer,2
+pulling root of shoes,1
+on tea table,7
+holding shelf,1
+broadcasting station,1
+wiping window,1
+not,3
+rubbish bin,1
+sheets,9
+taking out something,1
+taking off his clothes,5
+wooden shelves,1
+playing football,10
+t-shirts,6
+machine,8
+paying rugby,1
+crisper,1
+beside platform,3
+double,3
+turning on cellphone,1
+on camera,3
+outlet,1
+off white,15
+tissue paper,2
+going over barriers,1
+picking up broom,2
+placing books,2
+having meal,10
+hands laced behind head,1
+sweeper,3
+suntan,2
+sliver-gray,1
+touching rabbit,3
+light-blue,30
+faint red,4
+lakeside,9
+looking at medicine bottle,1
+four-wheel vehicle,1
+nail polish,2
+viridis,4
+peachblossom,4
+parked,3
+putting away dishes,1
+sliver grey,4
+on computer desktop,3
+closed,23
+scissors,1
+holding mirror,1
+putting hand on closet,1
+washing clothes,18
+fushia,2
+chicken,9
+on sport court,6
+looking at gas tank,1
+flesh color,4
+teasing dog,2
+walking toward cabinet,1
+interview,3
+cloth bag,1
+double door,2
+bookshelf,4
+brandish towel,1
+mixer,1
+holding bag,2
+cartoon suit,1
+talking on phone,5
+folding baby carriage,1
+playing plants vs zombies,2
+blue and green,1
+squidward tentacles,1
+magnifier,3
+left hand to put right arm,1
+athletic contestant,1
+take photos,1
+stepping on pillow,1
+accident,3
+opposite girl,3
+jumping into water,3
+taking off shoes,53
+flaxen,3
+two,186
+working out,1
+introducin stationery,1
+putting broom,4
+lying on his stomach,6
+punching speed,2
+tool rack,1
+red brown,1
+earthy brown,2
+obama,1
+sliverywhite,1
+board,2
+display item,1
+baby,6
+observing items,1
+taking chair,1
+chinese red,2
+light-pink,1
+on stage,68
+plank wall,1
+pointing to toy,1
+garbage bag,3
+wearing hats,1
+unlacing shoelace unlacing shoelace,1
+supporting structure,3
+arrow,5
+holding guitar,1
+playing with dog,1
+players and coaches,3
+pulling horse,3
+lowing curtain,1
+displaying boxes,1
+taking out things,2
+cutting lotus root,3
+show,3
+throwing away clothes,1
+bottle of wine,1
+person,24
+closing cabinet,3
+learn,1
+moving pot,2
+camera,34
+lake surface,1
+waving towels,1
+having rest,22
+having rugby match,1
+burgandy,4
+grayish yellow,1
+sit,3
+brownish yellow,18
+laying handkerchief,1
+palm,1
+in gymnasium,6
+putting books,2
+folding trousers,1
+brown-black,6
+digging through boxes,1
+in man's hand,3
+looking at things,6
+word,9
+taking magazine,5
+moving cushion,1
+hug,3
+rustic brown,1
+getting washed,1
+billboard,1
+cleaning up goods,1
+denim,3
+opening oven,1
+clearing up clothes,2
+in air,9
+fruit green,2
+watching computer videos,1
+pentagram,3
+baton,1
+cherry red,1
+cleaning cloth,4
+next to football field,1
+in forest,3
+long jumping,4
+sitting on chair,2
+picking up towel,2
+on pancake,3
+folding color paper,3
+touching horse face,1
+applausing,1
+coffee table,1
+military green,1
+wine,2
+sweeping,7
+drum set,4
+fire truck,3
+decorations,2
+refreshing,3
+eating something,15
+playing cellphones,4
+cap pistol,1
+monitoring,1
+getting bag,3
+hand shank,3
+cleopatra,1
+lemon yellow,8
+taking facial mask,1
+nodding,6
+papers,1
+eating meal,1
+wiping tears,1
+grey white,15
+placing item on cupboard,2
+electronic clock,1
+seated,3
+mural,10
+gray blue,1
+placing shoes,4
+silver ring,1
+water pipe,2
+putting down plates,1
+organizing clothes,3
+closing books,1
+taking pot,3
+maroon,3
+placing besom,1
+handkerchief,1
+flannelette blanket,1
+on tiles,3
+pulling bomb loop,3
+banana,9
+water balle,2
+stirring paste,1
+opening cabinet,16
+map,3
+in washing room,10
+playing cards,1
+paper cup,1
+studying,10
+picking up glasses,1
+shaking his fist,1
+answring phone,1
+placing things,5
+lacteous,3
+balloon,5
+statue,5
+folding coverlet,1
+music score,5
+trying lock,1
+sweeping trash,3
+comic,6
+medium gray,4
+warning tape,1
+silver-gray,3
+sculpture,1
+petting cat,1
+moving tv,1
+making phone call,12
+sheding tears,2
+golden,23
+judgment,2
+light pink,25
+on hanger,9
+sport car,1
+picking up steel cup,1
+drinking water,373
+tidying clothes,8
+looking for items,1
+in exhibition center,3
+remote controller,4
+skirt,15
+putting food,6
+shorthair,3
+watching telephone,1
+mattress,5
+putting off clothes,1
+double-door,1
+browsing materials,1
+display rack,1
+buying snacks,3
+taking tissue paper,1
+on computer,3
+kitchen ware,1
+repairing machine,1
+doing cleaning,8
+sitting in meditation,1
+organizing cabinet,2
+moving box,1
+women,1
+swimming pool,5
+throwing up towels,1
+bbc,6
+in woods,3
+quarrelling,3
+firebird,1
+sponge,4
+sitting on bed,2
+reddish,1
+faint grey,1
+back,1
+in sea water,1
+tasting dishes,1
+cleaning window,9
+arrange shelf,1
+playing cell phone,81
+microphone,75
+making bed,2
+cigarette,3
+on tv cabinet,6
+skiing equipment,1
+next to plants,3
+sneezing,113
+vehicle controller,1
+leaf,2
+checking door,1
+football,3
+glass bowl,1
+wearing gloves,1
+rope,4
+aisle,2
+jerrican,1
+sorting out items,1
+windowsill,4
+going to cave,1
+drum,1
+sleeping,73
+car interior,1
+moving back and forth,3
+raining,1
+folding things,3
+adjusting picture frame,1
+putting planet,1
+on car,1
+covering his mouth,1
+peach,5
+watching movie,3
+kneeling on one knee,1
+looking computer,4
+putting jars,1
+putting on performance,1
+holding clothes,2
+rubber ball,2
+fluorescent green,1
+light brown,16
+wallpaper,1
+shaking hands with audience,1
+placing backpack,1
+place box,2
+back cushion,7
+blue and white stripes,1
+in factory,1
+closing light,1
+peak cap,1
+shallot,1
+dinosaur,1
+navigation,1
+blowing his nose,1
+participating in competition,1
+repairing door,2
+displaying clothes,1
+shaking sheets,1
+under tree,3
+making mv,3
+horizontally arranged,3
+decorative picture,4
+covering quilt,1
+plate,79
+chef hat,1
+putting clothes on his body,1
+knives,1
+putting on another clothes,1
+juice,3
+carrying shoes,1
+pouring wine,1
+operating phone,5
+under screen,2
+on cable car,3
+chewing things,1
+silvery white,7
+at door of room,3
+on blanket,3
+snake,5
+cooking meal,7
+checking car,3
+light-orange,1
+taking bag,12
+touching chin,2
+night,3
+tv,65
+sunshade,3
+flower,19
+opening door of refrigerator,1
+putting shoes,8
+holding quilt,3
+cape,1
+by road,4
+observing item,1
+on windowsill,3
+introducing video,2
+under light,1
+on playground,7
+pram,2
+putting down clothes,6
+looking over backpack,1
+pitch black,3
+introducing news,1
+green gray,1
+on top of mountain,3
+opening bucket cover,1
+potted plant,3
+throwing cups,1
+logo,1
+cooking dishes,2
+blue-white,1
+brown black,3
+leaving kitchen,1
+pulling pants down,1
+closet,72
+cutting vegetables,4
+ash black,17
+rose red,29
+taking plastic case,1
+holding dog,6
+on sea,7
+putting computer on table,1
+taking off scarf,1
+between mountain,3
+blue white,6
+cloudy,3
+sitting down,23
+shooting,18
+lying on stomach,3
+competition,4
+forward,7
+in stud-farm,3
+in bathroom,47
+putting things on floor,3
+cooking,104
+grann-grey,1
+checking backpack,1
+repairing items,3
+pouring into box,1
+covering blanket,6
+green leaves,1
+stirring pigment,1
+meat,12
+on right,3
+have mouth,1
+climbing stairs,15
+five-pointed star,3
+swing,1
+eating things,35
+washing hands,13
+tidying blanket,1
+shower room,3
+what is color of man's hair in cartoon,1
+riding ofo,3
+rubbing hands,2
+students vehicles,1
+closing his eyes,3
+waiting,4
+on desktop,3
+axis,1
+shoot,3
+performing,33
+warm yellow,1
+bright grey,1
+pulling collar,1
+washroom,7
+opening wardrobe,2
+right,27
+on auditorium,1
+beautiful green,1
+putting down cup,9
+oil painting,5
+opening windows,1
+rugby,6
+installing equipment,2
+kill squid,2
+cabinet,97
+running in place,3
+storage room,12
+trying shoes,4
+luminous yellow,1
+cloth shoes,1
+sealing tank,1
+making up,14
+car,89
+listening to music,1
+throwing food,1
+light-yellow,9
+peeling mandarin orange,1
+placing lamp cover,1
+flipping iron shelf,1
+put down broom,1
+remote control,23
+glue,1
+covering news,1
+american flag,1
+referee,2
+holding up water cup,1
+dusting,3
+testing kid's car,3
+stairway,7
+shooting film,3
+moving chairs,1
+inside of car,1
+putting on clothes,30
+bowls and dishes,3
+pair of pants,2
+usb disk,1
+closestool,2
+vacuum machine,9
+touching forehead,1
+launching,3
+doing laundry,5
+on head,6
+serving food,2
+wing,6
+grooming,2
+giving food to partner,1
+taking up clothes,2
+glow stick,3
+swinging,5
+wheel,2
+getting off water,1
+washing ball,1
+fork,5
+spatula,4
+covering with blanket,1
+cartoon child,1
+grayish white,10
+pillar,2
+square,16
+fetching things,26
+in box,6
+icon,1
+whistle,1
+checking things up,1
+looking at food,1
+squatting,57
+throwing books,3
+moving boxes,6
+teacups,1
+next to shelf,3
+putting telecontroller,1
+basin,13
+wiping sofa,2
+on surface of ocean,1
+recording,5
+milk white,153
+photos,1
+emerald,1
+using calculator,1
+picking up shoes,1
+wooden chair,3
+falling in love,1
+getting box,1
+downtown street,1
+igniting hearth,1
+wiping windowsill,1
+mainframe,1
+introducing fire knowledge,1
+taking rope,1
+by stand,3
+military uniform,1
+deep-black,1
+ofo,1
+changing clothes,11
+shutting door,3
+picking materials,1
+placing scarf,1
+frying doughnut,1
+going up stairs,5
+green and white,2
+arrow mark,1
+on shore,1
+opening bottle,4
+holding demonstration,1
+taking food,11
+undressing,10
+throwing garbage,1
+tube,3
+getting camera,1
+twisting off bottle cap,1
+in stairs,6
+share tips,1
+ladder,2
+grey-blue,1
+moving out items,1
+hugging child,1
+toothpaste,2
+igniting fire,1
+light-purple,3
+stroking hair,1
+five three,1
+bench,3
+playing piano,12
+electricity meter,1
+beverage,23
+putting bowl,1
+ater,5
+on washstand,3
+taking jacket,1
+belt,3
+putting down glasses,1
+koala,3
+hair clip,7
+silver black,1
+organizing look,1
+iron shelf,2
+magnet,7
+cutting vegetable,2
+posting idea,2
+throwing paper,4
+spider net,2
+shine,3
+businessman,1
+claret,3
+figure in stone,3
+light-red,5
+cups,6
+standing on chair,1
+pale purple,3
+entering text,2
+scenery,1
+buggy bag,1
+on wall,188
+tying line,1
+air-conditioner,1
+go up stairs,1
+eye cream,1
+holding on table,1
+page turning,4
+jade green,4
+tidying up,1
+light-cyan,2
+looking at plastic bag,1
+opening cupboard,1
+unscrewing cap,2
+ultramarine,2
+waling slowly,1
+thread,1
+horse,24
+crumbling paper,1
+checking table,1
+on snowfield,6
+getting off plane,1
+brown and grey,1
+playing cup,3
+opening refrigerator door,7
+red cloth bag,1
+jasper cyan,1
+taking off clothes,67
+turning off hearth,1
+bags,3
+moving computer,2
